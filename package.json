@@ -10,7 +10,7 @@
     "prestart": "npm run build",
     "build": "npx tsc --project ./"
   },
-  "author": "Indware Technology Private Limited",
+  "author": "Sk Samidul Islam",
   "license": "ISC",
   "dependencies": {
     "cors": "2.8.5",
